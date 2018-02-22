@@ -1,0 +1,4 @@
+x-range= 10
+dx= 1
+y-range= 10
+dy= 1
